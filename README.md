@@ -4,7 +4,7 @@
 
 
 # Fileforums Premade Installers
-Premade installers from [here](https://fileforums.com/forumdisplay.php?f=55)
+Collection of premade installers from [here](https://fileforums.com/forumdisplay.php?f=55)
 
 - [Altef_4's\Enhanced Installer](https://fileforums.com/showthread.php?t=93899)
 - [ASIS](https://fileforums.com/showthread.php?t=99481)
