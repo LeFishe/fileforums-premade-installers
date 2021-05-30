@@ -69,7 +69,7 @@ Premade installers from [here](https://fileforums.com/forumdisplay.php?f=55)
 - [Metro Installer](https://fileforums.com/showthread.php?t=98653)
 - [Easy Repack Installer](https://fileforums.com/showthread.php?t=99298)
 - [Simple ARC Installer](https://fileforums.com/showthread.php?t=99027)
-- [~Micron Scipt~](https://fileforums.com/showthread.php?t=99065)
+- [Micron Scipt](https://fileforums.com/showthread.php?t=99065)
 - [Repack Joel](https://fileforums.com/showthread.php?t=99014)
 
 
